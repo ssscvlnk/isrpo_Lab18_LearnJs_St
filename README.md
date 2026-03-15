@@ -14,7 +14,7 @@
 
 ## Структура проекта
 
-Lab18_LearnJs_FIO/
+Lab18_LearnJs_St/
 │
 ├── img/ - Скриншоты
 ├── index.html - HTML-страница для подключения и запуска JavaScript
